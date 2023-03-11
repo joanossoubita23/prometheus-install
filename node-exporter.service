@@ -9,4 +9,15 @@ Type=simple
 ExecStart=/usr/local/bin/node_exporter
 
 [Install]
+<<<<<<< HEAD
 WantedBy=multi-user.target
+=======
+WantedBy=multi-user.target
+>>>>>>> 59822bb (node-exporter.service)
+<<<<<<< HEAD
+(local version)
+=======
+(remote version)
+>>>>>>> origin/main
+
+
